@@ -7,6 +7,9 @@ energy storage (ES), and to determine the optimal location for ES.  The results 
 connections to other nodes, as well as increased number of connections (transmission lines) in the grid improved ES performance.  
 The included Matlab files will quantify each node's performance and rank each node, thus determining the optimum location for ES.
 
+![image 1](/images/image3.png)
+
+
 # Results
 
 # ES Efficiency vs Node Location
