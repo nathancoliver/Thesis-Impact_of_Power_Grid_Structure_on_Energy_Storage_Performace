@@ -14,9 +14,11 @@ The included Matlab files will quantify each node's performance and rank each no
 
 # Optimum Energy Storage Location
 
+# IEEE 30
 ![image 1](/images/image5.png)
+
+# IEEE 118
 ![image 1](/images/image6.png)
-![image 1](/images/image7.png)
 
 
 # ES Efficiency vs Node Location
